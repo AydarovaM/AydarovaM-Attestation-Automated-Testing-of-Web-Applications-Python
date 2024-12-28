@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru/
+sleep_time: 1
+browser: chrome
+wait: 3
+username: Crocodile
+password: 08593f6462
